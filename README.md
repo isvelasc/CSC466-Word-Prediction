@@ -4,4 +4,4 @@ This project involved creating *word2vec* using TensorFlow and comparing it to t
 All code used for the project, along with any text files, are available.
 
 The .tsv files are available as well to be used in the *[Embedding Projector](https://projector.tensorflow.org/)*.
-![gensim projection](.\'embedding projector.PNG' "gensim Shakespeare wv projection")
+
